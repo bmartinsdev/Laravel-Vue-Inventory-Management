@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'atecgrid';
+  src:  url('../fonts/atecgrid.eot?r2t87l');
+  src:  url('../fonts/atecgrid.eot?r2t87l#iefix') format('embedded-opentype'),
+    url('../fonts/atecgrid.ttf?r2t87l') format('truetype'),
+    url('../fonts/atecgrid.woff?r2t87l') format('woff'),
+    url('../fonts/atecgrid.svg?r2t87l#atecgrid') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'atecgrid' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.grid-dot:before {
+  content: "\e921";
+}
+.grid-grafico:before {
+  content: "\e920";
+}
+.grid-seta:before {
+  content: "\e91f";
+}
+.grid-guardar:before {
+  content: "\e91c";
+}
+.grid-mais:before {
+  content: "\e91d";
+}
+.grid-menos:before {
+  content: "\e91e";
+}
+.grid-turmas:before {
+  content: "\e913";
+}
+.grid-email:before {
+  content: "\e91a";
+}
+.grid-formandos:before {
+  content: "\e91b";
+}
+.grid-sort:before {
+  content: "\e919";
+}
+.grid-arrow-down:before {
+  content: "\e918";
+}
+.grid-search:before {
+  content: "\e917";
+}
+.grid-salas:before {
+  content: "\e916";
+}
+.grid-categorias:before {
+  content: "\e912";
+}
+.grid-areas:before {
+  content: "\e914";
+}
+.grid-utilizadores:before {
+  content: "\e915";
+}
+.grid-topologias:before {
+  content: "\e906";
+}
+.grid-fechar:before {
+  content: "\e911";
+}
+.grid-box:before {
+  content: "\e901";
+}
+.grid-apagar:before {
+  content: "\e900";
+}
+.grid-cacifos:before {
+  content: "\e902";
+}
+.grid-consumiveis:before {
+  content: "\e903";
+}
+.grid-definicoes:before {
+  content: "\e904";
+}
+.grid-editar:before {
+  content: "\e905";
+}
+.grid-home:before {
+  content: "\e907";
+}
+.grid-inventario:before {
+  content: "\e908";
+}
+.grid-logout:before {
+  content: "\e909";
+}
+.grid-menu:before {
+  content: "\e90a";
+}
+.grid-move:before {
+  content: "\e90b";
+}
+.grid-password:before {
+  content: "\e90c";
+}
+.grid-size-height:before {
+  content: "\e90d";
+}
+.grid-size-length:before {
+  content: "\e90e";
+}
+.grid-size-width:before {
+  content: "\e90f";
+}
+.grid-utilizador:before {
+  content: "\e910";
+}
